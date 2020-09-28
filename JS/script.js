@@ -25,5 +25,3 @@ function setTimeGreeting() {
     }
     console.log(hour);    
 }
-
-
